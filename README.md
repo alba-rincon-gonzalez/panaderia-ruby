@@ -16,7 +16,7 @@ Lo que he aprendido con Ruby :
  - Programación Orientada a Objetos con Ruby
  - Creación de variables
  - Creación de Getter y Setter con accesorios (attr_accessor)
- - Creación del constructor, asignación de atributos con “@“ y “self” y métodos.
+ - Creación del constructor, asignación de atributos con “@“/“self” y métodos.
  - Herencia entre clases 
  - Bucles (For y While)
  - Interpolación de cadenas con #{variable}
