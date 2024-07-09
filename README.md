@@ -6,4 +6,6 @@ Programación Orientada a Objetos con el lenguaje Ruby:
  * Clase Tarta
  * Clase Desayuno
  * Clase Panadería
+
+
 Cada una con su constructor, atributos, getter, setter y métodos.
